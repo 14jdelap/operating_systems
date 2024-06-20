@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "unistd.h": "c",
+    "cstdlib": "c",
+    "locale": "c",
+    "types.h": "c"
+  }
+}

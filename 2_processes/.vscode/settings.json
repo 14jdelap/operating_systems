@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "cstdlib": "c",
+    "termios.h": "c",
+    "_types.h": "c",
+    "ios": "c"
+  }
+}

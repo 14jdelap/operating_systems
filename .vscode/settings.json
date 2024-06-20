@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "stat.h": "c",
+    "sstream": "c",
+    "unistd.h": "c",
+    "process_explorations.h": "c"
+  }
+}
